@@ -75,7 +75,7 @@ A more involved example:
 ```
 
 This starts a single echo process that write `'this is a test'` to the terminal. 
-Then it starts a [GFS](https://github.com/zlepper/gfs) process. 
+Then it starts a [GFS](https://github.com/machinemetrics/gfs) process. 
 At the same time another echo process is started, writing `'this is echo 2'` to the terminal.
 Then yet another echo process start, that write `'this is echo 3'` to the terminal.
 

@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"flag"
-	"github.com/zlepper/gpm/internal"
+	"github.com/machinemetrics/gpm/internal"
 	"log"
 	"os"
 	"os/signal"
